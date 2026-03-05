@@ -1,0 +1,277 @@
+[
+     {
+"id": 1,
+"name": "Freddy Fazbear",
+"game": "FNAF 1",
+"height": "2.1m",
+"summary": "Freddy Fazbear é o mascote principal da Freddy Fazbear's Pizza, mas quando as luzes se apagam algo dentro dele desperta. Diferente dos outros animatronics, Freddy parece agir com inteligência e paciência, observando silenciosamente antes de atacar. Muitos fãs acreditam que o espírito dentro dele pertence a uma das crianças desaparecidas no incidente da pizzaria. Durante a noite ele se move pelas sombras, aparecendo nas câmeras com olhos brilhantes e um sorriso perturbador, aproximando-se lentamente do escritório até ser tarde demais.",
+"defense": "Observe as câmeras frequentemente e feche a porta direita quando ele estiver próximo.",
+"image": "FreddyCN.webp"
+},
+
+{
+"id": 2,
+"name": "Bonnie",
+"game": "FNAF 1",
+"height": "2.2m",
+"summary": "Bonnie, o coelho guitarrista da banda, é um dos animatronics mais ativos e agressivos durante a noite. Diferente de Freddy, Bonnie não parece hesitar: ele simplesmente começa a se mover pela pizzaria no escuro. Muitos fãs acreditam que o espírito dentro dele está entre os mais inquietos, o que explicaria sua movimentação constante. Ele costuma aparecer primeiro no corredor esquerdo, encarando o escritório com olhos vazios antes de tentar entrar. Quando Bonnie chega perto demais, já significa que algo muito errado aconteceu.",
+"defense": "Use as câmeras para rastreá-lo e feche a porta esquerda quando ele chegar ao corredor.",
+"image": "BonnieCN.webp"
+},
+
+{
+"id": 3,
+"name": "Chica",
+"game": "FNAF 1",
+"height": "2.0m",
+"summary": "Chica é a animatronic galinha da banda, conhecida por carregar seu famoso cupcake. Durante o dia ela parece inofensiva, mas à noite se torna uma presença silenciosa e perturbadora nos corredores da pizzaria. Muitos jogadores acreditam que seu comportamento estranho está ligado ao espírito de uma criança que ainda vagueia pelo local. Nas câmeras, Chica costuma surgir parada, encarando diretamente para a lente como se soubesse que está sendo observada. Quanto mais perto ela chega do escritório, mais intensa fica a sensação de estar sendo caçado.",
+"defense": "Fique atento às câmeras e feche a porta direita quando ela aparecer no corredor.",
+"image": "ChicaCN.webp"
+},
+
+{
+"id": 4,
+"name": "Foxy",
+"game": "FNAF 1",
+"height": "2.3m",
+"summary": "Foxy é o antigo animatronic pirata da Pirate Cove, e diferente dos outros ele não tenta se esconder. Durante o dia sua cortina permanece fechada, mas à noite algo começa a se mover atrás dela. Foxy é rápido, imprevisível e extremamente agressivo. Muitos fãs acreditam que ele está mais danificado que os outros animatronics, o que teria afetado seus sistemas — ou talvez o espírito dentro dele seja simplesmente mais furioso. Se você ignorar a Pirate Cove por muito tempo, Foxy corre pelo corredor em uma investida brutal diretamente até o escritório.",
+"defense": "Verifique a Pirate Cove nas câmeras frequentemente para impedir que ele corra.",
+"image": "FoxyCN.webp"
+},
+
+{
+"id": 36,
+"name": "Golden Freddy",
+"game": "FNAF 1",
+"height": "2.1m",
+"summary": "Golden Freddy é talvez a entidade mais misteriosa de toda a franquia. Diferente dos outros animatronics, ele não se move fisicamente pela pizzaria. Em vez disso, ele simplesmente aparece — sentado no escritório, imóvel, com olhos vazios e uma presença quase sobrenatural. Muitos fãs acreditam que Golden Freddy representa um espírito extremamente poderoso, possivelmente ligado ao incidente conhecido como 'The Bite'. Outros teorizam que ele não é um animatronic real, mas uma manifestação paranormal criada pelos espíritos presos na pizzaria. Quando Golden Freddy aparece, é como se a própria realidade do jogo começasse a quebrar.",
+"defense": "Quando ele aparecer no escritório, abaixe a câmera imediatamente para evitar o jumpscare.",
+"image": "Withered_Golden_FreddyCN.webp"
+},
+  
+  {
+    "id": 11,
+    "name": "Withered Freddy",
+    "game": "FNAF 2",
+    "height": "2.2m",
+    "summary": "Withered Freddy é a versão abandonada e deteriorada de Freddy Fazbear, guardada nos fundos da pizzaria após ser considerada “obsoleta”. Seu traje está rasgado, sua estrutura metálica aparece entre os buracos do corpo, e seus olhos parecem vazios, como se algo estivesse observando por trás deles. Muitos fãs acreditam que ele ainda carrega o espírito de uma das crianças desaparecidas, tornando seus movimentos lentos, porém inevitáveis. Quando ele entra no escritório, sua presença parece pesar no ar, como se a própria pizzaria lembrasse dos crimes cometidos ali.",
+    "defense": "Use a máscara de Freddy quando ele aparecer no escritório.",
+    "image": "withered-freddy-suit-png-clipart-removebg-preview.png"
+  },
+  {
+    "id": 12,
+    "name": "Withered Bonnie",
+    "game": "FNAF 2",
+    "height": "2.3m",
+    "summary": "Withered Bonnie é talvez a visão mais perturbadora entre os animatronics antigos. Seu rosto foi completamente destruído, deixando expostos fios, engrenagens e duas cavidades negras onde deveriam estar seus olhos. Mesmo assim, ele continua se movendo pela pizzaria como se pudesse enxergar perfeitamente. Essa característica levou fãs a teorizar que o espírito dentro do traje não precisa dos sensores do animatronic para encontrar sua vítima. Sua aparência mutilada faz dele um dos personagens mais assustadores de FNAF 2.",
+    "defense": "Coloque a máscara de Freddy rapidamente.",
+    "image": "Withered_BonnieCN.webp"
+  },
+  {
+    "id": 13,
+    "name": "Withered Chica",
+    "game": "FNAF 2",
+    "height": "2.1m",
+    "summary": "Withered Chica é uma versão corrompida da antiga animatronic da banda. Seu bico superior está quebrado, revelando fileiras de dentes metálicos que não deveriam existir. Seus olhos arregalados e postura rígida dão a impressão de que ela está constantemente procurando alguém específico. Alguns fãs acreditam que ela representa a deterioração da antiga pizzaria, um símbolo de que algo muito errado aconteceu ali antes da abertura do novo restaurante.",
+    "defense": "Use a máscara quando ela chegar ao escritório.",
+    "image": "Withered_ChicaCN-0.webp"
+  },
+  {
+    "id": 14,
+    "name": "Withered Foxy",
+    "game": "FNAF 2",
+    "height": "2.4m",
+    "summary": "Diferente dos outros modelos quebrados, Withered Foxy continua extremamente rápido e agressivo. Seu traje está rasgado, expondo grande parte do endoesqueleto, e um de seus olhos brilha intensamente na escuridão do corredor. Ele é um dos poucos animatronics que não pode ser enganado pela máscara de Freddy, o que leva muitos jogadores a acreditar que seu sistema é mais antigo — ou que algo dentro dele já percebeu que o guarda não pertence àquele lugar.",
+    "defense": "Use a lanterna repetidamente para fazê-lo recuar.",
+    "image": "five-nights-at-freddy-s-4-nightmare-jump-scare-nightmare-foxy-removebg-preview.png"
+  },
+  {
+    "id": 15,
+    "name": "Springtrap",
+    "game": "FNAF 3",
+    "height": "2.2m",
+    "summary": "Springtrap é uma das figuras mais sombrias de toda a franquia. Dentro desse traje antigo de springlock está o corpo de William Afton, o assassino responsável pelos desaparecimentos das crianças da Freddy Fazbear’s Pizza. Preso no traje após uma falha mortal dos mecanismos, Afton permaneceu selado ali por décadas. Agora, em Fazbear’s Fright, o animatronic voltou a se mover. Diferente dos outros, ele não é apenas uma máquina possuída — ele é o próprio assassino retornando para continuar sua caçada.",
+    "defense": "Use o áudio de atração para desviá-lo e sele as aberturas de ventilação próximas.",
+    "image": "SpringtrapCN-0.webp"
+  },
+  {
+    "id": 16,
+    "name": "Phantom Freddy",
+    "game": "FNAF 3",
+    "height": "2.1m",
+    "summary": "Phantom Freddy não é um animatronic físico, mas uma manifestação distorcida da mente do guarda e da energia sobrenatural que permeia o local. Seu corpo parece queimado e parcialmente invisível, como se estivesse preso entre duas realidades. Quando ele aparece no corredor, o sistema do prédio começa a falhar, sugerindo que sua presença é mais do que uma simples alucinação.",
+    "defense": "Evite olhar diretamente para ele por muito tempo para não sofrer falhas no sistema.",
+    "image": "Phantom_FreddyCN.webp"
+  },
+  {
+    "id": 17,
+    "name": "Phantom Chica",
+    "game": "FNAF 3",
+    "height": "2.0m",
+    "summary": "Phantom Chica surge nas câmeras com o rosto deformado e a boca aberta em um sorriso impossível. Sua aparência lembra um corpo carbonizado, como se tivesse sobrevivido a um incêndio. Muitos fãs acreditam que os Phantoms são ecos das almas presas nos animatronics, tentando se manifestar através da tecnologia do prédio.",
+    "defense": "Troque rapidamente de câmera quando ela aparecer.",
+    "image": "Phantom_Chica_Office-removebg-preview.png"
+  },
+  {
+    "id": 18,
+    "name": "Phantom Foxy",
+    "game": "FNAF 3",
+    "height": "2.2m",
+    "summary": "Phantom Foxy aparece subitamente dentro do escritório, sua silhueta queimada e distorcida surgindo bem diante do guarda. Seu jumpscare não mata diretamente, mas causa falhas nos sistemas do prédio, deixando o jogador vulnerável a Springtrap. É como se sua função fosse distrair e enfraquecer a vítima antes do verdadeiro predador atacar.",
+    "defense": "Evite olhar diretamente para ele quando surgir no escritório.",
+    "image": "164-1645069_golden-phantom-foxy-by-tommysturgis-phantom-foxy-removebg-preview (1).png"
+  },
+  {
+    "id": 19,
+    "name": "Phantom Mangle",
+    "game": "FNAF 3",
+    "height": "2.1m",
+    "summary": "Phantom Mangle surge nas câmeras emitindo ruídos de rádio distorcidos que ecoam pelo prédio inteiro. Sua presença é acompanhada por interferências e estática, dando a impressão de que algo está tentando atravessar o sistema elétrico para se manifestar fisicamente.",
+    "defense": "Troque rapidamente de câmera para evitar o jumpscare.",
+    "image": "Phantom_MangleCN.webp"
+  },
+  {
+    "id": 20,
+    "name": "Phantom Balloon Boy",
+    "game": "FNAF 3",
+    "height": "1.3m",
+    "summary": "Phantom Balloon Boy aparece repentinamente nas câmeras com seu sorriso congelado e olhos vazios. Diferente da versão original, ele não invade o escritório — mas sua aparição provoca falhas graves na ventilação, causando alucinações e dificultando a sobrevivência do guarda.",
+    "defense": "Mude de câmera rapidamente quando ele aparecer.",
+    "image": "Phantom_Balloon_BoyCN.webp"
+  },
+  {
+    "id": 21,
+    "name": "Phantom Puppet",
+    "game": "FNAF 3",
+    "height": "2.0m",
+    "summary": "Phantom Puppet é uma versão fantasmagórica da Marionette, surgindo lentamente nas câmeras com movimentos silenciosos e perturbadores. Sua presença parece estar ligada às almas das crianças desaparecidas, como se estivesse observando tudo de longe, esperando o momento certo para agir.",
+    "defense": "Troque de câmera imediatamente para evitar falhas no sistema.",
+    "image": "Extra_Puppet-removebg-preview.png"
+  },
+    {
+    "id": 22,
+    "name": "Nightmare Freddy",
+    "game": "FNAF 4",
+    "height": "2.3m",
+    "summary": "Nightmare Freddy é uma versão distorcida e monstruosa de Freddy Fazbear que parece ter saído diretamente de um pesadelo. Seu corpo é coberto por rachaduras profundas e sua boca se abre em fileiras intermináveis de dentes afiados. Porém, o mais perturbador são os Freddles, pequenas criaturas que surgem na cama e parecem ser fragmentos vivos dele. Muitos fãs acreditam que Nightmare Freddy representa o medo crescente do protagonista, multiplicando-se na escuridão até que seja tarde demais.",
+    "defense": "Ilumine a cama frequentemente para afastar os Freddles antes que Nightmare Freddy apareça.",
+    "image": "Nightmare_Freddy_FreddlesCN.webp"
+  },
+  {
+    "id": 23,
+    "name": "Nightmare Bonnie",
+    "game": "FNAF 4",
+    "height": "2.4m",
+    "summary": "Nightmare Bonnie surge no corredor esquerdo como uma silhueta gigantesca coberta de dentes e garras metálicas. Seus olhos brilham intensamente na escuridão do quarto, e seu sorriso parece largo demais para qualquer animatronic. Diferente da versão original, ele não parece seguir uma programação — ele age como um predador esperando pacientemente o momento certo para atacar.",
+    "defense": "Escute atentamente na porta esquerda e feche-a se ouvir respiração.",
+    "image": "Nightmare_BonnieCN.webp"
+  },
+  {
+    "id": 24,
+    "name": "Nightmare Chica",
+    "game": "FNAF 4",
+    "height": "2.3m",
+    "summary": "Nightmare Chica é uma das visões mais grotescas de FNAF 4. Seu corpo está quebrado e deformado, enquanto sua boca gigantesca revela inúmeras fileiras de dentes impossíveis. Ao seu lado está seu cupcake, que também ganhou vida própria e observa silenciosamente da cama. A dupla cria uma sensação constante de que algo está sempre olhando para o jogador na escuridão.",
+    "defense": "Escute na porta direita e feche rapidamente se ouvir respiração.",
+    "image": "NChicaUCN-0.webp"
+  },
+  {
+    "id": 25,
+    "name": "Nightmare Foxy",
+    "game": "FNAF 4",
+    "height": "2.5m",
+    "summary": "Nightmare Foxy não aparece imediatamente nos corredores. Em vez disso, ele se esconde dentro do armário do quarto, esperando ser ignorado. Aos poucos ele se manifesta em três estágios: primeiro apenas um vulto, depois seus olhos brilhando no escuro, e finalmente sua forma completa pronta para atacar. Esse comportamento faz dele um dos inimigos mais tensos do jogo.",
+    "defense": "Verifique o armário frequentemente e feche a porta quando ele estiver lá dentro.",
+    "image": "images.steamusercontent-removebg-preview.png"
+  },
+  {
+    "id": 26,
+    "name": "Nightmare Fredbear",
+    "game": "FNAF 4",
+    "height": "2.6m",
+    "summary": "Nightmare Fredbear é uma entidade colossal e aterradora que aparece nas últimas noites. Seu corpo dourado está repleto de rachaduras e dentes gigantescos, e seu riso ecoa pelo quarto antes de sua chegada. Muitos fãs acreditam que ele representa diretamente o trauma da Bite of 83, o evento que marcou profundamente o protagonista da história.",
+    "defense": "Escute atentamente nas portas, no armário e na cama para reagir rapidamente.",
+    "image": "Nightmare_FredbearCN.webp"
+  },
+  {
+    "id": 27,
+    "name": "Nightmare",
+    "game": "FNAF 4",
+    "height": "2.6m",
+    "summary": "Nightmare é ainda mais misterioso que Fredbear. Seu corpo é quase totalmente negro, como uma sombra viva, com apenas olhos brilhantes e dentes visíveis na escuridão. Alguns acreditam que ele não é um animatronic real, mas sim a manifestação pura do medo e da culpa que assombram o protagonista.",
+    "defense": "Use o mesmo método de escutar respirações nas portas e reagir rapidamente.",
+    "image": "NightmareCN.webp"
+  },
+  {
+    "id": 28,
+    "name": "Circus Baby",
+    "game": "FNAF Sister Location",
+    "height": "2.3m",
+    "summary": "Circus Baby é a estrela principal do Circus Baby’s Entertainment and Rental. Diferente dos outros animatronics, ela demonstra inteligência, calma e uma capacidade assustadora de manipular quem está ao seu redor. Por trás de sua voz gentil e aparência colorida existe um segredo sombrio: ela foi responsável pela morte de Elizabeth Afton, filha de William Afton, cujo espírito agora habita o animatronic.",
+    "defense": "Siga cuidadosamente as instruções dadas durante as noites e evite cometer erros ao realizar tarefas.",
+    "image": "Circus_BabyCN.webp"
+  },
+  {
+    "id": 29,
+    "name": "Ballora",
+    "game": "FNAF Sister Location",
+    "height": "2.2m",
+    "summary": "Ballora é uma animatronic bailarina que se move silenciosamente pelos corredores escuros da instalação. Seus olhos permanecem fechados, mas ela parece perceber qualquer movimento ou som ao seu redor. Sua música ecoa pelo local como uma presença fantasmagórica, dando a impressão de que ela está sempre dançando nas sombras.",
+    "defense": "Caminhe lentamente e evite fazer barulho ao atravessar sua galeria.",
+    "image": "BalloraCN.webp"
+  },
+  {
+    "id": 30,
+    "name": "Funtime Freddy",
+    "game": "FNAF Sister Location",
+    "height": "2.3m",
+    "summary": "Funtime Freddy é um animatronic caótico e imprevisível, sempre acompanhado de seu fantoche Bon-Bon. Enquanto Freddy fala constantemente em um tom animado e perturbador, Bon-Bon parece agir como uma espécie de controle para manter seu comportamento sob controle. Mesmo assim, sua personalidade instável o torna um dos animatronics mais perigosos da instalação.",
+    "defense": "Use o painel de controle corretamente e siga os comandos para evitar seu ataque.",
+    "image": "artworks-000202558264-wmdy69-t500x500-removebg-preview (1).png"
+  },
+  {
+    "id": 31,
+    "name": "Funtime Foxy",
+    "game": "FNAF Sister Location",
+    "height": "2.3m",
+    "summary": "Funtime Foxy é o animatronic responsável pelos espetáculos no Funtime Auditorium. Seu comportamento é fortemente ligado à luz — quando iluminado, ele permanece parado, mas na escuridão pode se mover livremente. Isso transforma o simples ato de usar a lanterna em um jogo mortal de risco e precisão.",
+    "defense": "Use flashes rápidos da lanterna para monitorar sua posição.",
+    "image": "Funtime_FoxyCN.webp"
+  },
+  {
+    "id": 32,
+    "name": "Bon-Bon",
+    "game": "FNAF Sister Location",
+    "height": "0.5m",
+    "summary": "Bon-Bon é o pequeno fantoche controlado por Funtime Freddy. Apesar de seu tamanho reduzido, ele é extremamente ágil e pode atacar rapidamente quando se aproxima do jogador. Alguns fãs acreditam que Bon-Bon funciona como um “segundo cérebro” para Freddy, ajudando a controlar sua personalidade instável.",
+    "defense": "Use o controle para afastá-lo quando ele se aproximar.",
+    "image": "111-1116008_hey-bonbon-by-gabocoart-fnaf-sister-location-bon-bon-removebg-preview.png"
+  },
+  {
+    "id": 33,
+    "name": "Bidybab",
+    "game": "FNAF Sister Location",
+    "height": "1.0m",
+    "summary": "Os Bidybabs são pequenos animatronics infantis que se movem pelos sistemas de ventilação. Eles são rápidos, silenciosos e trabalham em grupo, tentando invadir o escritório sem serem notados. Seu comportamento lembra mais criaturas predatórias do que máquinas programadas.",
+    "defense": "Feche rapidamente as aberturas quando ouvir movimento.",
+    "image": "Bidybab_HW2_Gallery-removebg-preview.png"
+  },
+  {
+    "id": 34,
+    "name": "Minireena",
+    "game": "FNAF Sister Location",
+    "height": "0.9m",
+    "summary": "As Minireenas são pequenas bailarinas que servem como assistentes de Ballora. Elas aparecem durante os minigames e podem se agarrar ao traje springlock do jogador, tornando cada movimento mais perigoso. Sua aparência simples esconde um comportamento extremamente inquietante.",
+    "defense": "Balance o traje springlock para removê-las.",
+    "image": "Minireena_HW2_Gallery-removebg-preview.png"
+  },
+  {
+    "id": 35,
+    "name": "Ennard",
+    "game": "FNAF Sister Location",
+    "height": "2.4m",
+    "summary": "Ennard é uma criatura formada pela fusão de vários animatronics da instalação. Uma massa de fios, máscaras e peças metálicas que se unem em uma única entidade. Seu verdadeiro objetivo é escapar da instalação usando o corpo de um humano como disfarce. Entre todos os inimigos da série, Ennard representa talvez a maior prova de que algo muito mais sombrio está acontecendo por trás das cortinas da Fazbear Entertainment.",
+    "defense": "Evite cometer erros durante os eventos finais da história.",
+    "image": "Ennard-removebg-preview.png"
+  }
+]
